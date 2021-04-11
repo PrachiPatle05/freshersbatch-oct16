@@ -20,7 +20,7 @@ let questions = [
   },
   {
     question:
-      "What is the correct syntax for referring to an external script called 'xxx.js'?",
+      "hy js asssignmt!",
     choice1: "<script href='xxx.js'>",
     choice2: "<script name='xxx.js'>",
     choice3: "<script src='xxx.js'>",
