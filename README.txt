@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+struck
 hello assignment! line 1 edit again
 =======
 hello assignment! - JS assign
