@@ -1,4 +1,4 @@
-hello assignment!
+hello assignment! line 1 edit again
 <<<<<<< HEAD
 css assignment is on!
 css assignment line 3!
